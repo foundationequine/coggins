@@ -16,7 +16,7 @@ You will be installing, and configuring two Chrome extensions to help with filli
 
 ![Step2a](/step3.png)
 
-**Step 2b: Set External Scripts to Always Reload*
+**Step 2b: Set External Scripts to Always Reload**
 
 ![Step2b](/Step4.png)
 
