@@ -29,5 +29,7 @@ You will be installing, and configuring two Chrome extensions to help with filli
 
 **Step 2d: Save script**
 
+![Step2b](/Step6.png)
+
 # Installation Complete
 You can now go to the USPS Website and work with Coggins. The script will auto select the state, license, and automatically create download links for the Coggins PDFs when appropriate.
