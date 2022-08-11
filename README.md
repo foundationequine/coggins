@@ -13,6 +13,7 @@ You will be installing, and configuring two Chrome extensions to help with filli
 
 # Step 2 - Configure Tampermonkey
 **Step 2a: Open Tampermonkey Options**
+![Step2a](/step3.png)
 
 **Step 2b: Add New User Script**
 
