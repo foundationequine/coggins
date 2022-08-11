@@ -4,11 +4,11 @@ You will be installing, and configuring two Chrome extensions to help with filli
 # Step 1 - Install Chrome Extensions
 **Step 1a: Install Extension - Tampermonkey**
 
-https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+> https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
 **Step 1b: Install Extension - No PDF Download**
 
-https://chrome.google.com/webstore/detail/no-pdf-download/ikhahkidgnljlniknmendeflkdlfhonj?hl=en
+> https://chrome.google.com/webstore/detail/no-pdf-download/ikhahkidgnljlniknmendeflkdlfhonj?hl=en
 
 
 # Step 2 - Configure Tampermonkey
@@ -16,8 +16,8 @@ https://chrome.google.com/webstore/detail/no-pdf-download/ikhahkidgnljlniknmende
 
 **Step 2b: Add New User Script**
 
-**Step 2c: Copy and Paste the following Script into the Script Editor**
-
+**Step 2c: Open the following link, copy the contents, and paste it into the Script Editor**
+> https://raw.githubusercontent.com/foundationequine/coggins/main/tampermonkey-script.js
 
 **Step 2d: Save script**
 
