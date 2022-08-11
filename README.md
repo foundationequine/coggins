@@ -13,9 +13,12 @@ You will be installing, and configuring two Chrome extensions to help with filli
 
 # Step 2 - Configure Tampermonkey
 **Step 2a: Open Tampermonkey Options**
+
 ![Step2a](/step3.png)
 
 **Step 2b: Add New User Script**
+
+![Step2a](/step4.png)
 
 **Step 2c: Open the following link, copy the contents, and paste it into the Script Editor**
 > https://raw.githubusercontent.com/foundationequine/coggins/main/tampermonkey-script.js
